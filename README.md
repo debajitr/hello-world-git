@@ -1,2 +1,2 @@
-# hello-world-git
+# Git Hello World
 Git hello world !
